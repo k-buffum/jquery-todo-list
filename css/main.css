@@ -1,0 +1,31 @@
+body {
+	background-image: url("../images/seattle.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;	
+	float: left;
+	margin: 20px 0px 20px 400px;
+	font-family: 'Indie Flower', cursive;
+
+}
+
+img.bg {
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+#container {
+	background-color: rgba(234, 36, 94, 0.5);
+	background: rgba(234, 36, 94, 0.5);
+	color: rgba(234, 36, 94, 0.5);
+}
+
+ul {
+	color: black;
+	font-size: 20px;
+}
+
+
